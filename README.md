@@ -43,4 +43,5 @@ To improve the application's usability, the user is given textual details about 
 * [Muhammad Munam Uddin Farooqui](https://github.com/munam2244) : Data Interpolation and Outlier Recognition
 * [Jan Schiefer](https://github.com/jan-of-us) : Classification and Regression using Artificial Intelligence [(Source)](https://github.com/jan-of-us/OOP_22_AI_NN)
 * [Maximilian Brandt](https://github.com/brandeyy) : Classification using Machine Learning
+* [Muhammad Ali](https://github.com/MuhammadAliacc) : Regression using Machine Learning
 * **Maryam Jahangir** and **Muhammad Ali** : Regression using Machine Learning
